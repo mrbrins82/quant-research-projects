@@ -2,7 +2,9 @@
 
 ## Overview
 
-This strategy explores a mixture of models. Here are the [project slides](https://github.com/mrbrins82/quant-research-projects/blob/main/ensemble-models-crypto-strat/quant_ensemble_crypto_project.pdf).
+This strategy explores a mixture of models. For more detailed information, here are the [project slides](https://github.com/mrbrins82/quant-research-projects/blob/main/ensemble-models-crypto-strat/quant_ensemble_crypto_project.pdf).
+
+<u>__Models Used__</u>
 
 1. A technical indicator strategy based on moving averages, momentum indicators, drawdown indicators, and some other engineered indicators.
 2. A supervised ML model that classifies the next day returns, emphasizing for precision since false positives cost money.
