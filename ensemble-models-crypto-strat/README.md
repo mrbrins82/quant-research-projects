@@ -13,6 +13,6 @@ This strategy explores a mixture of models. Here are the [project slides](https:
 These strategies were trained from 2021-01-01 to 2023-12-31, and validated on data from 2024-01-01 to 2024-12-31. For the OOS testing which ran from 2025-01-01 to 2026-02-28, the strategies were weighted using various methods based on their performance during the validation period. The best performing overall strategy was the one that combined individual strategies based on their Sharpe Ratios during the validation period. 
 
 * __Sharpe Ratio: 2.001__
-* __\alpha t-stat: 2.150__
-* __\alpha: 0.0010__
+* __$\alpha$ t-stat: 2.150__
+* __$\alpha$: 0.0010__
 * __Information Ratio: 1.07__
