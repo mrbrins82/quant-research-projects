@@ -1,1 +1,1 @@
-# quant-research-project
+# quant-research-projects
