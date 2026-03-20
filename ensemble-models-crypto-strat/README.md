@@ -23,11 +23,11 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 
 ## Technical Strategy "bumpiness"
 
+<img src="images/tech_strat_full_period.jpg" alt="Full period returns" width="400" height="100">
 
-![Full period returns](images/tech_strat_full_period.png)
+<img src="images/tech_strat_october_2024.jpg" alt="October 2024 returns" width="400" height="100">
 
-![March 2024 returns](images/tech_strat_march_2024.png)
+<img src="images/tech_strat_november_2024.jpg" alt="November 2024 returns" width="400" height="100">
 
-![November 2024 returns](images/tech_strat_november_2024.png)
+<img src="images/tech_strat_october_2025.jpg" alt="October 2025 returns" width="400" height="100">
 
-![October 2025 returns](images/tech_strat_october_2025.png)
