@@ -16,7 +16,7 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 
 <u>__Overall Strategy Results__</u>
 
-* __Sharpe Ratio: 2.001__
-* __$\alpha$ t-stat: 2.150__
-* __$\alpha$: 0.0010__
-* __Information Ratio: 1.07__
+* __Sharpe Ratio: 1.979__
+* __$\alpha$ t-stat: 2.126__
+* __$\alpha$: 0.0009__
+* __Information Ratio: 1.03__
