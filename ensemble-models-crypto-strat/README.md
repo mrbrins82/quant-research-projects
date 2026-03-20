@@ -2,7 +2,7 @@
 
 ## Overview
 
-This strategy explores a mixture of models. For more detailed information, here are the [project slides](https://github.com/mrbrins82/quant-research-projects/blob/main/ensemble-models-crypto-strat/quant_ensemble_crypto_project.pdf).
+This strategy explores a mixture of models. For more detailed information, here are the [project slides](https://github.com/mrbrins82/quant-research-projects/blob/main/ensemble-models-crypto-strat/quant_ensemble_crypto_project.pdf) and [jupyter notebook](https://github.com/mrbrins82/quant-research-projects/blob/main/ensemble-models-crypto-strat/full_backtested_strats.ipynb) containing the backtest.
 
 <u>__Models Used__</u>
 
