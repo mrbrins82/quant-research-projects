@@ -20,3 +20,14 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 * __$\alpha$ t-stat: 2.126__
 * __$\alpha$: 0.0009__
 * __Information Ratio: 1.03__
+
+## Technical Strategy "bumpiness"
+
+
+![Full period returns](images/tech_strat_full_period.png)
+
+![March 2024 returns](images/tech_strat_march_2024.png)
+
+![November 2024 returns](images/tech_strat_november_2024.png)
+
+![October 2025 returns](images/tech_strat_october_2025.png)
