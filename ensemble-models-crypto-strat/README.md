@@ -28,6 +28,7 @@ The technical strategy exhibits periods of flatness, with short periods of large
 ![Full period returns](images/tech_strat_full_period.jpg)
 
 
+
 ![October 2024 returns](images/tech_strat_october_2024.jpg)
 
 
