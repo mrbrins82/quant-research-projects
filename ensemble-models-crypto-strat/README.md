@@ -26,7 +26,7 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 The technical strategy exhibits periods of flatness, with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. We will look at several cases during this backtest where the technical strategy contributes large gains over a short period of time, just to better understand what is happening.
 
 
-![Full period returns](images/tech_strat_full_period.png)
+![Full period returns](images/bnh_full_period.png)
 
 ![March 2024 bnh returns](images/bnh_march_2024.png)
 ![March 2024 tech strat returns](images/tech_strat_march_2024.png)
