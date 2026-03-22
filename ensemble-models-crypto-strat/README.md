@@ -32,6 +32,7 @@ The first plot shows the Buy & Hold returns for each individual coin with FETUSD
 ![March 2024 tech strat returns](images/tech_strat_march_2024.png)
 
 ### November 2024
+For November 2024, we again have the first plot showing the individual Buy & Hold returns for each coin, with DOGEUSDT, ADAUSDT, HBARUSDT, and XLMUSDT highlighted. The second plot shows the returns made by the technical indicator strategy during the same period with the same coins highlighted. We see here another example of increasing prices for all coins to varying degrees, but a strategy that picks up on a handful of coins that exhibit steeper increases in price, while ignoring those that have a shallower increase.
 
 ![November 2024 bnh returns](images/bnh_november_2024.png)
 ![November 2024 tech strat returns](images/tech_strat_november_2024.png)
