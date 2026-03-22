@@ -23,7 +23,7 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 
 ## Notes on Technical Strategy
 
-As can be seen in the project slides, the technical strategy exhibits periods of flatness with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. There are three times during the validation and OOS periods where the strategy makes its gains. These occur in March 2024, November 2024, and October 2025.
+As can be seen in the project slides, the technical indicator strategy exhibits periods of flatness with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. There are three times during the validation and OOS periods where the strategy makes its gains. These occur in March 2024, November 2024, and October 2025.
 
 From the following plots, the technical indicator strategy seems adept at capturing gains when coins exhibit momentum on the order of weeks. However, this strategy sees negligible results during other times. As a next step, further investigation into new technical indicators, and refinement of current indicators could potentially lead to steadier gains.
 
