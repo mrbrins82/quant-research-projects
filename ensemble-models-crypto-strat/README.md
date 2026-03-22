@@ -40,7 +40,7 @@ For November 2024, we again have the first plot showing the individual Buy & Hol
 ![November 2024 tech strat returns](images/tech_strat_november_2024.png)
 
 ### October 2025
-October 2025 is different from the previous two periods, in that during this time all but a couple coins decreased in value. The strategy only picks up on the sharp increase in price for ZECUSDT, and again ignores coins with shallower price movements.
+October 2025 is different from the previous two periods, in that during this time all but a few coins decreased in value. The strategy only picks up on the sharp increase in price for ZECUSDT, and again ignores coins with shallower price movements.
 
 ![October 2025 bnh returns](images/bnh_october_2025.png)
 ![October 2025 tech strat returns](images/tech_strat_october_2025.png)
