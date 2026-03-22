@@ -25,6 +25,8 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 
 As can be seen in the project slides, the technical strategy exhibits periods of flatness with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. There are three times during the validation and OOS periods where the strategy makes its gains. These occur in March 2024, November 2024, and October 2025.
 
+From the following plots, the technical indicator strategy seems adept at capturing gains when coins exhibit momentum on the order of weeks. However, this strategy sees negligible results during other times. As a next step, further investigation into new technical indicators, and refinement of current indicators could potentially lead to steadier gains.
+
 ### March 2024
 The first plot shows the Buy & Hold returns for each individual coin with FETUSDT and SHIBUSDT highlighted specifically. The second plot shows the gains made by the technical indicator strategy, again highlighting FETUSDT and SHIBUSDT. We can see that this is a period where all coins see an increase in price, to varying degrees. The strategy picks up on the sharp increases in FETUSDT and SHIBUSDT, while ignoring the more shallow price increases of the other coins.
 
