@@ -23,14 +23,20 @@ These strategies were trained from 2021-01-01 to 2023-12-31, and validated on da
 
 ## Notes on Technical Strategy
 
-The technical strategy exhibits periods of flatness, with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. We will look at several cases during this backtest where the technical strategy contributes large gains over a short period of time, just to better understand what is happening.
+As can be seen in the project slides, the technical strategy exhibits periods of flatness with short periods of large returns. Ideally, a strategy with continual gains rather than sudden large gains would be preferred. There are three times during the validation and OOS periods where the strategy makes its gains. These occur in March 2024, November 2024, and October 2025.
 
+### March 2024
+The first plot shows the Buy & Hold returns for each individual coin with FETUSDT and SHIBUSDT highlighted specifically. The second plot shows the gains made by the technical indicator strategy, again highlighting FETUSDT and SHIBUSDT. We can see that this is a period where all coins see an increase in price, to varying degrees. The strategy picks up on the sharp increases in FETUSDT and SHIBUSDT, while ignoring the more shallow price increases of the other coins.
 
 ![March 2024 bnh returns](images/bnh_march_2024.png)
 ![March 2024 tech strat returns](images/tech_strat_march_2024.png)
 
+### November 2024
+
 ![November 2024 bnh returns](images/bnh_november_2024.png)
 ![November 2024 tech strat returns](images/tech_strat_november_2024.png)
+
+### October 2025
 
 ![October 2025 bnh returns](images/bnh_october_2025.png)
 ![October 2025 tech strat returns](images/tech_strat_october_2025.png)
